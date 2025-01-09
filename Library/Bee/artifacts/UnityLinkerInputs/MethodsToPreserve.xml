@@ -1,0 +1,16 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="GameManager">
+			<method name="Go"/>
+			<method name="Music_change"/>
+			<method name="Restart"/>
+			<method name="Sound_change"/>
+		</type>
+		<type fullname="UI_setting">
+			<method name="back_to_homepage"/>
+			<method name="goto_intro"/>
+			<method name="real_environment"/>
+			<method name="test_environment"/>
+		</type>
+	</assembly>
+</linker>

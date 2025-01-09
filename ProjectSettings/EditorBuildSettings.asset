@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/winning.unity
     guid: 1f5a860387ff44fc6a6a4222a341d6b9
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 1dcad8a8bcf184de9bb3f8b21461e94c, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 1675511286a614aedbfe4573c518ef51, type: 2}
+  m_UseUCBPForAssetBundles: 0
